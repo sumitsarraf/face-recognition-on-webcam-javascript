@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js -L -e js,html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Prashant Kumar",
+  "author": "Sumit Ranjan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
